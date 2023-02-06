@@ -50,11 +50,3 @@ nosetests.xml
 *.gz
 
 # common memory extensions:
-*.vmem
-*.mem
-*.img
-*.dmp
-*.sys
-*.bin
-*.001
-*.raw
